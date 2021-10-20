@@ -1,4 +1,7 @@
-BOOTRTAP - VON A BIS Z
+BOOTSTRAP - VON A BIS Z
 
 Kapitel 1 - Die Dokumentation
 -- ganz viel Text --
+
+Kapitel 2 - Beispiele für CSS-Einbindung
+... ganz viel Text ...
